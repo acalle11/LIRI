@@ -14,4 +14,4 @@ node liri.js spotify-this-song "Ignition"
 Get Movie Info
 Retrieves movie information for a movie:
 
-node liri.js movie-this "Star Wars"
+node liri.js movie-this "Lion King"
